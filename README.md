@@ -2,7 +2,10 @@
 
 developer in learning
 
-# Knowledge
+- :globe_with_meridians: Galicia, Spain
+- :mortar_board: Currently studying Software Development
+
+## Knowledge
 
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=blueviolet)
