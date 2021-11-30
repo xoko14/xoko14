@@ -25,3 +25,6 @@ developer in learning
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
+
+
+![](https://github-readme-stats.vercel.app/api?username=xoko14&show_icons=true&theme=material-palenight)
