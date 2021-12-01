@@ -15,6 +15,12 @@ developer in learning
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Framework-JavaFX-informational?style=flat&logo=Java&logoColor=white&color=blueviolet)
+
+![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=blueviolet)
+
+![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=blueviolet)
 
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=csharp&logoColor=white&color=blueviolet)
