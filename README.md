@@ -4,7 +4,7 @@ developer in learning
 
 - :bust_in_silhouette: they/he/she
 - :globe_with_meridians: Galicia, Spain
-- :mortar_board: Currently studying Software Development
+- :mortar_board: Junior Software Developer
 
 ## Knowledge
 
