@@ -11,11 +11,12 @@ developer in learning
 ## Knowledge
 
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Language-Rust-informational?style=flat&logo=Rust&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Language-HTML-informational?style=flat&logo=html5&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=css3&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Framework-JavaFX-informational?style=flat&logo=Java&logoColor=white&color=blueviolet)
 
