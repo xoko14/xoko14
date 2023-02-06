@@ -1,6 +1,6 @@
 **_GL/ES/EN_**
 
-developer in learning
+backend (?) developer
 
 - :bust_in_silhouette: they/he/she
 - :globe_with_meridians: Galicia, Spain
