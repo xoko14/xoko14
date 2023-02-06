@@ -6,8 +6,6 @@ developer in learning
 - :globe_with_meridians: Galicia, Spain
 - :mortar_board: Junior Software Developer
 
-[**PRIVATE REPO**](https://gitlab.shoudev.com/shou)
-
 ## Knowledge
 
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blueviolet)
