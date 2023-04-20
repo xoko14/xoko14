@@ -34,7 +34,7 @@
             </div>
             <canvas id="canvas"></canvas>
             <script src="https://webglfundamentals.org/webgl/resources/webgl-utils.js"></script>
-            <script src="./shader_script.js"></script>
+            <script src="https://raw.githubusercontent.com/xoko14/xoko14/feature/webgl-svg/shader_script.js"></script>
         </body>
 
         </html>
