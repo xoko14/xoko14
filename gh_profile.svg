@@ -277,7 +277,7 @@
 ╰─$ xoko14 -h
       _                    
      | |                   
-  ___| |__   ___  _   _    <span class="purple">they/he/she</span>
+  ___| |__   ___  _   _    <!--<span class="purple">she/they</span>-->
  / __| '_ \ / _ \| | | |   <span class="green">:</span> backend (?) dev
  \__ \ | | | (_) | |_| |   <span class="green">󰍎:</span> galicia, spain
  |___/_| |_|\___/ \__,_|   <span class="green">󰇧:</span> gl/es/en 
